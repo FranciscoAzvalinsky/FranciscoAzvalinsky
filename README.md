@@ -2,7 +2,7 @@
 
 
 ## ¿Quién soy? 
-Soy un **Programador _Fullstack_** orientado al diseño ***Back-end***
+Soy un **Programador _Fullstack_** orientado al ***Back-end***
 
 Desde que terminé la escuela secundaria, decidí orientarme al mundo de la tecnología.
 Primero pasé por ingeniería en sistemas, hasta que decidí que me gustaba más el
