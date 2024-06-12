@@ -2,15 +2,16 @@
 
 
 ## ¿Quién soy? 
-Soy un **Programador _Fullstack_** orientado al ***Back-end***
+Soy un **Programador _Fullstack_**
 
 Desde que terminé la escuela secundaria, decidí orientarme al mundo de la tecnología.
 Primero pasé por ingeniería en sistemas, hasta que decidí que me gustaba más el
 desarrollo web.
 
 ## ¿Qué hago?
-Actualmente soy un estudiante en busca de adquirir mas conocimiento, así como mejorar
-mi nivel de inglés, mi maquetado de páginas web y aprender nuevas tecnologías.
+Actualmente estoy en búsqueda de empleo, mientras me sigo formando aprendiendo a utilizar
+herramientas de IA orientadas a la optimización de desarrollo de software, así como a su
+vez, realizo distintos proyectos personales de programación.
 
 ## ¿A dónde me dirijo?
 Mi objetivo es adquirir mi primera experiencia laboral en el mundo de la tecnología! 🎆
